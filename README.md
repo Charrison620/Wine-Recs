@@ -23,7 +23,8 @@ The first data set, the Wine data set, is from Kaggle and includes a list of ~13
 
 The second data set, the wine and food pairing dataset, is from the Wine Folly blog and this data set contains a list of the different styles of wine and their corresponding wine varieties and it lists the foods by food category that pair with that wine. This data set provides the user with known foods and food categories that pair with different wines. 
 
-The third data set, the recipes data set, is from Kaggle and listed out ~40,000 different recipes from different cuisines with their corresponding ingredients.  
+The third data set, the recipes data set, is from Kaggle and listed out ~40,000 different recipes from different cuisines with their corresponding ingredients.  Link to Dataset Here: https://www.kaggle.com/zynicide/wine-reviews
+
 
 
 3.0 Wine Reviews Text Analysis 
